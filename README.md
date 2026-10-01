@@ -4,4 +4,6 @@ Ihor Yuriyovych (Teacher)
 
 
 Nevhad Yelyzaveta
+Polishchuk Max (netanyahu)
+
 Zubal Max (krutiy blud)
