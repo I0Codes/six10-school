@@ -1,0 +1,14 @@
+README.md
+  h_0e6651d198e697 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e9bfd845f90143ec6093c1f72710784289fb07f7",
+  "prompts": {},
+  "humans": {
+    "h_0e6651d198e697": {
+      "author": "Ihor Obrizan <ihor.obrizan@justanswer.com>"
+    }
+  }
+}
