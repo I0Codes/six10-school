@@ -7,3 +7,4 @@ Nevhad Yelyzaveta
 Polishchuk Max (netanyahu)
 
 Zubal Max (krutiy blud)
+Sashchuk Vlad (vlad4656)
