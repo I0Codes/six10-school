@@ -7,3 +7,4 @@ Nevhad Yelyzaveta
 Polishchuk Max (netanyahu)
 
 Zubal Max (krutiy blud)
+SHEVCHUK dimasik(stylchik)
