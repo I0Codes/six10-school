@@ -1,5 +1,12 @@
 Basecamp 2026-2027
 
 Ihor Yuriyovych (Teacher)
+
+GhostSamurai
+
+Nevhad Yelyzaveta
+Polishchuk Max (netanyahu)
+
 Zubal Max (krutiy blud)
 Sashchuk Vlad (vlad4656)
+SHEVCHUK dimasik(stylchik)
